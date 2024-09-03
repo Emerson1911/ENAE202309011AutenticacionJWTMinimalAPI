@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ENAE202309011AutenticacionJWTMinimalAPI.props" />
+</Project>
